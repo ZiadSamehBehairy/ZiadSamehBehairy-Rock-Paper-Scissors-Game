@@ -22,4 +22,5 @@ I created this project as part of my learning journey in C++ to practice:
 1. Clone this repository:
 ```bash
 git clone https://github.com/ZiadSamehBehairy/Rock-Paper-Scissors-Game.git
-"# ZiadSamehBehairy-Rock-Paper-Scissors-Game" 
+cd ZiadSamehBehairy-Rock-Paper-Scissors-Game
+
